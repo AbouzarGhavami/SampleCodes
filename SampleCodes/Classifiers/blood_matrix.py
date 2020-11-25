@@ -1,5 +1,12 @@
+# This code applies different binary classifiers 
+# to two different groups of Control vs Disease classes
+# Classifiers are SVM, Logistic Regression, Random forests,
+# Neural Networks, XGBoost, k-Nearest Neighbors
+# The output is the confusion matrix of classifiers.
+
 # Author: Abouzar Ghavami
 # Email: ghavamip@gmail.com
+
 # This code is protected by copyright laws in US.
 # Please do not reuse in any format without permission of Abouzar Ghavami.
 
