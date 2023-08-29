@@ -1,7 +1,6 @@
 # Author: Abouzar Ghavami
 # Email: ghavamip@gmail.com
-# This code is protected by copyright laws in US.
-# Please do not reuse in any format without permission of Abouzar Ghavami.
+
 
 import numpy as np
 import tensorflow.keras as keras
